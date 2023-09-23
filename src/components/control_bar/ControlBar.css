@@ -1,0 +1,25 @@
+.switch-button {
+    flex: 1;
+}
+.submit-button {
+    flex: 1.5;
+}
+.button {
+    padding: 10px;
+    font-size: 2em;
+}
+
+.control-bar {
+    display: flex;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.control-bar-text {
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: 1.5em;
+}
+.control-bar-container {
+    background-color: #CAD7FF;
+    padding: 40px;
+}

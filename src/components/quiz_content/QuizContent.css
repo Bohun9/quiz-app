@@ -1,0 +1,19 @@
+.quiz-content-container {
+    padding: 50px;
+    font-size: 2em;
+}
+.quiz-answer-options {
+    list-style-type: none;
+}
+.quiz-answer {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.quiz-question {
+    margin-bottom: 30px;
+}
+
+input[type="radio"] {
+    width: 25px;
+    height: 25px;
+}
